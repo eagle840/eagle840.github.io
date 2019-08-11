@@ -9,6 +9,9 @@
 - Merge anryengineer with THIS repo.
 - need  a domain for anrgy engineer
 - see the _config.yml file to make jekyll adjustments (which incs page contents and layout)
+- see [Github Pages Basic](https://help.github.com/en/categories/github-pages-basics)
+- see [GH Pages customization](https://help.github.com/en/categories/customizing-github-pages)
+- Second Page Test [click here](./second.md)
 
 You can use the [editor on GitHub](https://github.com/eagle840/eagle840.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
