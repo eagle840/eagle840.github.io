@@ -1,5 +1,11 @@
-## Welcome to Nicholas Pages
+## Welcome to Nicholas' Pages
 
+- ### To Do
+- why is there to gh-pages branch?
+- where are the jekyll files held
+- Find a Jekyll playlist  [with Mike Dane](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+- Find a Github-pages play list  [git/hub with Codetrain](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- Finf a github-pages - see 19 on Jeykll playlist above
 You can use the [editor on GitHub](https://github.com/eagle840/eagle840.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
