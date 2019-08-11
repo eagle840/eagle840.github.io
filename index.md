@@ -8,6 +8,7 @@
 - Find a Github-pages - see 19 on Jeykll playlist above
 - Merge anryengineer with THIS repo.
 - need  a domain for anrgy engineer
+- see the _config.yml file to make jekyll adjustments (which incs page contents and layout)
 
 You can use the [editor on GitHub](https://github.com/eagle840/eagle840.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
