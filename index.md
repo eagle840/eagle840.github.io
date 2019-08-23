@@ -1,3 +1,9 @@
+---
+title: This is my main page
+layout: post
+---
+
+
 ## Welcome to Nicholas' Pages
 
 - ### To Do
