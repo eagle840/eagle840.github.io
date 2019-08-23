@@ -14,11 +14,11 @@ no server side scripting (you can use html, css, javascript)
 - markdown requires 'Front matter' in the start of md
 '---
 ---'
-- but typical to have
+- but typical to have <br>
 ' --- <br>
- title: My Title
- layout: post
- ---'
+ title: My Title<br>
+ layout: post<br>
+ ---'<br>
 
 Can also 
 
