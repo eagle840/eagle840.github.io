@@ -50,4 +50,5 @@ Use Node Pools (groups) to power down a group and power up a new set with new ve
 3) Meet the use were they live
 4) ?? Work load routability ??
 5) any more ??
+6) Having to use an our own cloud compute/service on the same provider? - consider putting into the same vpc as the cluster
 
