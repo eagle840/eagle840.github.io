@@ -15,7 +15,7 @@ no server side scripting (you can use html, css, javascript)
 '---
 ---'
 - but typical to have
-' ---
+' --- <br>
  title: My Title
  layout: post
  ---'
@@ -23,11 +23,11 @@ no server side scripting (you can use html, css, javascript)
 Can also 
 
 ### links:
-https://pages.github.com/
-[Main github pages page](https://pages.github.com/)
-[What is](https://help.github.com/en/articles/what-is-github-pages)
-[Jekyll Front matter](https://jekyllrb.com/docs/front-matter/)
-[customize](https://help.github.com/en/categories/customizing-github-pages)
+- https://pages.github.com/
+- [Main github pages page](https://pages.github.com/)
+- [What is](https://help.github.com/en/articles/what-is-github-pages)
+- [Jekyll Front matter](https://jekyllrb.com/docs/front-matter/)
+- [customize](https://help.github.com/en/categories/customizing-github-pages)
 
 TITLE | BRANCH (master/gh_pages) | Project (/docfiles CHECK THIS)
 ------|--------------------------|-------------------------------
