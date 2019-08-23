@@ -1,7 +1,3 @@
----
-front matter
----
-
 # Kubernetes Best Practices
 
 Most taken from Google
