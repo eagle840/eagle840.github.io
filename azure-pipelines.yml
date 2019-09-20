@@ -10,6 +10,8 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+  - script: echo This script runs before the template's steps, only on Windows.
+
 - task: Docker@0
   displayName: 'Run Jekyll'
   inputs:
