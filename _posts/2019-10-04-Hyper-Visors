@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+# A list of Hyper visors and there command lines
+
+## Type 1: Run directly on hardware
+
+### Linux KVM  
+
+link
+
+Version/installed check
+ $ kvm --version
+ 
+
+
+### VMware ESXi
+link
+### Linux Xen
+link
+### Microsoft Hyper-V
+
+## Type 2: 
+
+### Linux/Microsoft VirtualBox
+
+### Xvisor
+
+### VMwware Workstation Player
+
+### Linux (2.6.23+) Lguest
+
+Light weight built into the kernel
+
+##  Hyper-visor management tools
+
+### kimchi
