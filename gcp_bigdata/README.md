@@ -9,6 +9,13 @@ Instead of using onenoie, I will using this.
 ## fast links (url's I use the most)
 - main reseource page for links to urls
 - (gcp data engineer)[https://cloud.google.com/certification/data-engineer]
+- (coursera gcp data-eng pro cert  66hrs total)
+- 1. https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-engineering  13 hrs
+- 2. https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp?specialization=gcp-data-engineering 9 hrs
+- 3. https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp?specialization=gcp-data-engineering 9hrs
+- 4. https://www.coursera.org/learn/serverless-machine-learning-gcp?specialization=gcp-data-engineering 12 hrs
+- 5. https://www.coursera.org/learn/building-resilient-streaming-systems-gcp  8 hrs
+- 6. https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam  15 hrs
 
 ## Exam Components  <update md format in this secion>
 
