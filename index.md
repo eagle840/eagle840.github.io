@@ -4,7 +4,11 @@ title: Welcome to eagle840
 
 ## Welcome to Nicholas' Pages
 
+# This page is no longer active
+
+
 - ### To Do
+- CLOSE THIS SITE DOWB
 - why is there to gh-pages branch?
 - where are the jekyll files held
 - Find a Jekyll playlist  [with Mike Dane](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
