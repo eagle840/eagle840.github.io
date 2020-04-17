@@ -5,7 +5,7 @@ title: Welcome to eagle840
 ## Welcome to Nicholas' Pages
 
 # This page is no longer active
-head over to https://eagle840.gitlab.io/jekyll/
+head over to [eagle840.gitlab.io](https://eagle840.gitlab.io/jekyll/)
 
 
 - ### To Do
